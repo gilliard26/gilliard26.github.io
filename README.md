@@ -1,6 +1,6 @@
 # gilliard26.github.io
 
-<!DOCTYPE html>
+<!DOCTYPE8 html>
 <!-- saved from url=(0029)https://dailyscape.github.io/ -->
 <html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     
